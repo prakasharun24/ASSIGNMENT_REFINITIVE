@@ -1,0 +1,11 @@
+http://assignmentone-env.eba-9j3xzdd2.us-east-2.elasticbeanstalk.com/assign1/students
+
+by ID(SAMPLE)
+http://assignmentone-env.eba-9j3xzdd2.us-east-2.elasticbeanstalk.com/assign1/students/1
+
+You can test the following operations
+GET(findAll)
+GET(findById)
+POST
+PUT
+DELETE(By ID)

@@ -1,0 +1,22 @@
+PRODUCT
+________
+
+http://assignmenttwoproduct-env.eba-9ftc6e8r.us-east-2.elasticbeanstalk.com/product/
+
+by productCode(SAMPLE)
+http://assignmenttwoproduct-env.eba-9ftc6e8r.us-east-2.elasticbeanstalk.com/product/INK
+
+
+COUPON
+_______
+
+http://assignmenttwocoupon-env.eba-avddzuqf.us-east-2.elasticbeanstalk.com/coupon
+
+by couponCode(SAMPLE)
+http://assignmenttwocoupon-env.eba-avddzuqf.us-east-2.elasticbeanstalk.com/coupon/15OFF
+
+
+CART
+_____
+
+http://assignmenttwocart-env.eba-ac99gsay.us-east-2.elasticbeanstalk.com/cart
